@@ -1,0 +1,89 @@
+@media (max-width: 575px) {
+
+
+
+
+
+
+/* ==========================================================================
+  hero
+   ========================================================================== */
+.hero h1 {
+    font-size: 26px;
+}
+h2{
+	font-size: 26px;
+}
+.mobile-tab{
+	display: none;
+}
+
+/* ==========================================================================
+   apps-screenshots style
+   ========================================================================== */
+.slider-bg:after {
+    content: "";
+}
+
+
+/* ==========================================================================
+   footer
+   ========================================================================== */
+.footer ul{
+    margin-left: 0;
+}
+.footer li{
+    padding: 90px 5px 15px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {}
+
+@media (min-width: 576px) {
+
+
+
+}
+
+@media (max-width: 767px) {}
+
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+@media (min-width: 768px) {
+
+
+
+}
+
+@media (max-width: 991px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 992px) {
+
+
+
+}
+
+@media (max-width: 1199px) {}
+
+@media (min-width: 1200px) {
+
+
+
+}
